@@ -1,0 +1,145 @@
+Páginas dos capítulos
+Introduction: Extended_Game_Mechanics_-_Chapter_1.php
+Basics: Extended_Game_Mechanics_-_Chapter_2.php
+Important Differences: Extended_Game_Mechanics_-_Chapter_3.php
+Monster Effects: Extended_Game_Mechanics_-_Chapter_4.php
+Types of Summon: Extended_Game_Mechanics_-_Chapter_5.php
+Chains: Extended_Game_Mechanics_-_Chapter_6.php
+The Battle Phase: Extended_Game_Mechanics_-_Chapter_7.php
+Game Mechanics: Extended_Game_Mechanics_-_Chapter_8.php
+Card Resets: Extended_Game_Mechanics_-_Chapter_9.php
+Player Management: Extended_Game_Mechanics_-_Chapter_10.php
+Glossary: Extended_Game_Mechanics_-_Chapter_11.php
+Seções de cada capítulo (URLs completas)
+
+Capítulo 1
+
+Introduction: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_1.php#p1
+
+Capítulo 2 (Basics)
+
+Card Types: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_2.php#p2
+Normal Spell Cards: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_2.php#p3
+Quick-Play Spell Cards: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_2.php#p4
+Field Spell Cards: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_2.php#p5
+Normal Trap Cards: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_2.php#p6
+Counter Trap Cards: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_2.php#p7
+Permanent Spell and Trap Cards: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_2.php#p8
+0 Life Points: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_2.php#p10
+Win Conditions: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_2.php#p11
+Deckout: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_2.php#p12
+Quitting a Game: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_2.php#p13
+Time Out: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_2.php#p14
+Penalties: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_2.php#p15
+Draw: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_2.php#p16
+
+Capítulo 3 (Important Differences)
+
+Damage: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_3.php#p3
+Battle Damage: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_3.php#p4
+Effect Damage: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_3.php#p5
+Costs: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_3.php#p6
+Activation Costs: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_3.php#p7
+Maintaining Costs: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_3.php#p8
+Send to the graveyard: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_3.php#p11
+Destruction: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_3.php#p12
+Banish face-up: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_3.php#p14
+Banish face-down: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_3.php#p15
+Cards that target: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_3.php#p16
+Defined Targets: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_3.php#p17
+Effects that do not target: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_3.php#p18
+Resolve a targeting card: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_3.php#p19
+Draw Cards: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_3.php#p21
+Pick Up / Add: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_3.php#p22
+Searching Effects: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_3.php#p23
+Zone Gameplay: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_3.php#p24
+
+Capítulo 4 (Monster Effects)
+
+Monster Effects: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_4.php#p1
+Ignition Effects: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_4.php#p2
+Continuous Effects: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_4.php#p3
+Flip Effects: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_4.php#p4
+Quick Effects: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_4.php#p5
+Trigger Effects (mandatory): https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_4.php#p6
+Trigger Effects (optional): https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_4.php#p7
+Optional Trigger Effects that do not Miss the Timing: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_4.php#p8
+
+Capítulo 5 (Types of Summon)
+
+Special Summons: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_5.php#p2
+Inherent Special Summons: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_5.php#p3
+Non-inherent Special Summons: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_5.php#p4
+Nomi Monsters: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_5.php#p5
+Flip Summons: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_5.php#p6
+Gemini Summon: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_5.php#p7
+Ritual Summon: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_5.php#p8
+Fusion Summons: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_5.php#p9
+Contact Fusions: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_5.php#p10
+Synchro Summons: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_5.php#p11
+Xyz-Summons: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_5.php#p12
+
+Capítulo 6 (Chains)
+
+Chains: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_6.php#p1
+Creating a Chain: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_6.php#p2
+Resolving a Chain: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_6.php#p3
+Simultaneous Effects go on Chain (SEGOC): https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_6.php#p4
+Quick Effects in SEGOC: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_6.php#p5
+
+Capítulo 7 (The Battle Phase)
+
+Start Step: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_7.php#p2
+Battle Step: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_7.php#p3
+Several Chains during the Battle Step: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_7.php#p4
+Damage Step: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_7.php#p5
+Card Activation during the Damage Step: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_7.php#p6
+End Step: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_7.php#p7
+
+Capítulo 8 (Game Mechanics)
+
+Action, Reaction and Priority: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_8.php#p2
+What is an action?: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_8.php#p4
+What is a reaction?: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_8.php#p5
+What is priority?: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_8.php#p6
+Priority in Phases: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_8.php#p7
+Hand Card Limit: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_8.php#p8
+The Summoning Procedure: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_8.php#p9
+Effect Types of Tribute Summons: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_8.php#p10
+The Game State (General): https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_8.php#p12
+Changing Phases: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_8.php#p13
+Manually Change: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_8.php#p15
+Change by Card Effects: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_8.php#p16
+Characteristics of Set Monsters: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_8.php#p17
+Effects of Set Monsters: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_8.php#p19
+Cards with Activation Requirements: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_8.php#p21
+Cards without activation requirements: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_8.php#p22
+The Kara Uchi Principle: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_8.php#p23
+Activation Place: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_8.php#p24
+Activation Place and Costs: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_8.php#p25
+Token: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_8.php#p26
+Infinite Loops: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_8.php#p27
+Legal Loops: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_8.php#p29
+
+Capítulo 9 (Card Resets)
+
+General: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_9.php#p2
+Conditions: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_9.php#p3
+Conditions Laid Upon the Monster: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_9.php#p4
+Non-resettable Conditions: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_9.php#p5
+
+Capítulo 10 (Player Management)
+
+Notes: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_10.php#p2
+Time out: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_10.php#p3
+Time Out on big tournaments (Tier 2) Preliminary Rounds: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_10.php#p4
+Time Out at Tops and Smaller Events (Tier 1): https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_10.php#p5
+Basics of Player Management: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_10.php#p7
+Infractions and Penalties: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_10.php#p8
+Final Words regarding Player Management: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_10.php#p9
+
+Capítulo 11
+
+Glossary: https://yomifrog.lima-city.de/xgm/en/Extended_Game_Mechanics_-_Chapter_11.php#p1
+
+Os números das âncoras saem do menu do site e têm lacunas (por exemplo, não aparece #p9 no capítulo 2), então algumas seções podem não estar no menu

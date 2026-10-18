@@ -1,0 +1,28 @@
+Sky Striker Ace - [Nome] #(Unidade militar)
+Senri
+
+Sky Striker Mobilize — [Ação]! #(Protocolos de Busca e Recrutamento)
+Optimize!
+Recon!
+Logistics!
+Deployment!
+
+Sky Striker Maneuver — [Ação]! #(Protocolos de posicionamento e táticas de combate)
+Sequence!
+Divergence!
+Convergence!
+Supression!
+Interception!
+
+Sky Striker Mecha — [Dispositivo]! #(Dispositivos, armas táticas)
+Valuation
+Permutator / Combinatorial
+Probability Engine
+Node / Tactical Point
+
+Sky Striker Mecha Modules — [Serviço] #(Infraestrutura e Serviço)
+ECM Suite
+Telemetry
+
+Sky Striker Airspace — [Zona] #(Zona de controle)
+Combat Radius
