@@ -1,11 +1,46 @@
 {
   "version": 4,
   "targets": {
-    "net10.0": {}
+    "net10.0": {
+      "Airspace/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/Airspace.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Airspace.dll": {}
+        }
+      },
+      "Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Data.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Airspace/1.0.0": {
+      "type": "project",
+      "path": "../Airspace/Airspace.csproj",
+      "msbuildProject": "../Airspace/Airspace.csproj"
+    },
+    "Data/1.0.0": {
+      "type": "project",
+      "path": "../Data/Data.csproj",
+      "msbuildProject": "../Data/Data.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net10.0": []
+    "net10.0": [
+      "Airspace >= 1.0.0",
+      "Data >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\ferna\\.nuget\\packages\\": {}
@@ -32,7 +67,14 @@
         "net10.0": {
           "framework": "net10.0",
           "targetAlias": "net10.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\workstation\\NoesisProjects\\AceSenri\\Airspace\\Airspace.csproj": {
+              "projectPath": "C:\\workstation\\NoesisProjects\\AceSenri\\Airspace\\Airspace.csproj"
+            },
+            "C:\\workstation\\NoesisProjects\\AceSenri\\Data\\Data.csproj": {
+              "projectPath": "C:\\workstation\\NoesisProjects\\AceSenri\\Data\\Data.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

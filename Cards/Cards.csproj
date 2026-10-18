@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Airspace\Airspace.csproj" />
+  </ItemGroup>
+
 </Project>

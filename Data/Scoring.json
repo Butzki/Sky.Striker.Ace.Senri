@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "weights": {
+    "cardInHand": 1.0,
+    "unknownCardInHand": 1.0,
+    "objectiveInHandBonus": 0.5,
+    "objectiveOnField": 1.0,
+    "spentWithoutReturn": -1.0
+  },
+  "objectives": [
+    "ash-blossom-and-joyous-spring",
+    "ghost-belle-and-haunted-mansion",
+    "ghost-ogre-and-snow-rabbit",
+    "forbidden-crown",
+    "forbidden-droplet"
+  ],
+  "defaultCardValue": 0,
+  "cardValues": {
+    "sky-striker-mecha-widow-anchor": -1,
+    "sky-striker-maneuver-afterburners": -1,
+    "sky-striker-mecha-hornet-drones": 1,
+    "mystical-space-typhoon": -1,
+    "reinforcement-of-the-army": 0,
+    "upstart-goblin": 0,
+    "radiant-typhoon-vision": 0,
+    "sky-striker-mobilize-engage": 1.0
+  },
+  "tieBreakers": [
+    "fewerActions",
+    "scoringPriority",
+    "idAlphabetical"
+  ]
+}

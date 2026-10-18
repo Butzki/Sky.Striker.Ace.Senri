@@ -1,0 +1,36 @@
+{
+  "name": "Sky Striker - Fase 1",
+  "main": [
+    { "id": "sky-striker-mobilize-engage", "copies": 3 },
+    { "id": "mystical-space-typhoon", "copies": 3 },
+    { "id": "reinforcement-of-the-army", "copies": 1 },
+    { "id": "upstart-goblin", "copies": 3 },
+    { "id": "sky-striker-ace-raye", "copies": 3 },
+    { "id": "sky-striker-ace-roze", "copies": 3 },
+    { "id": "ash-blossom-and-joyous-spring", "copies": 3 },
+    { "id": "ghost-belle-and-haunted-mansion", "copies": 3 },
+    { "id": "ghost-ogre-and-snow-rabbit", "copies": 3 },
+    { "id": "sky-striker-mecha-hornet-drones", "copies": 1 },
+    { "id": "sky-striker-mecha-widow-anchor", "copies": 3 },
+    { "id": "sky-striker-maneuver-afterburners", "copies": 3 },
+    { "id": "radiant-typhoon-vision", "copies": 3 },
+    { "id": "forbidden-crown", "copies": 2 },
+    { "id": "forbidden-droplet", "copies": 3 }
+  ],
+  "extra": [
+    { "id": "the-dragon-that-devours-the-dogma", "copies": 1 },
+    { "id": "sky-striker-ace-zero", "copies": 1 },
+    { "id": "sp-little-knight", "copies": 1 },
+    { "id": "sky-striker-ace-azalea", "copies": 1 },
+    { "id": "sky-striker-ace-camellia", "copies": 1 },
+    { "id": "ip-masquerena", "copies": 1 },
+    { "id": "prototype-sky-striker-ace-amatsu", "copies": 1 },
+    { "id": "sky-striker-ace-hayate", "copies": 1 },
+    { "id": "sky-striker-ace-kagari", "copies": 2 },
+    { "id": "sky-striker-ace-shizuku", "copies": 1 },
+    { "id": "link-spider", "copies": 1 },
+    { "id": "mudragon-of-the-swamp", "copies": 1 },
+    { "id": "garura-wings-of-resonant-life", "copies": 1 },
+    { "id": "predaplant-dragostapelia", "copies": 1 }
+  ]
+}

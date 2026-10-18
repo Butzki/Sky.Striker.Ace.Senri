@@ -5,10 +5,6 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkyStriker.Ace.Senri", "Sky.Striker.Ace.Senri\SkyStriker.Ace.Senri.csproj", "{836FD5A4-327B-402E-BAA7-A4D14348CE0F}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sky.Striker.Ace.Senri", "Sky.Striker.Ace.Senri", "{0FDA7BCE-5688-E2EA-EA51-D692E01EBC09}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Airspace", "Sky.Striker.Ace.Senri\Airspace\Airspace.csproj", "{A62D0EF6-5E73-4E7A-9335-D40C8A78C4D8}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cards", "Cards\Cards.csproj", "{94248B2A-0DAB-47E6-816D-5FBBFB9286AD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Airspace", "Airspace\Airspace.csproj", "{F0D7A659-85D4-4DCF-A0EC-BBA5F7F5FDFF}"
@@ -45,18 +41,6 @@ Global
 		{836FD5A4-327B-402E-BAA7-A4D14348CE0F}.Release|x64.Build.0 = Release|Any CPU
 		{836FD5A4-327B-402E-BAA7-A4D14348CE0F}.Release|x86.ActiveCfg = Release|Any CPU
 		{836FD5A4-327B-402E-BAA7-A4D14348CE0F}.Release|x86.Build.0 = Release|Any CPU
-		{A62D0EF6-5E73-4E7A-9335-D40C8A78C4D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A62D0EF6-5E73-4E7A-9335-D40C8A78C4D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A62D0EF6-5E73-4E7A-9335-D40C8A78C4D8}.Debug|x64.ActiveCfg = Debug|Any CPU
-		{A62D0EF6-5E73-4E7A-9335-D40C8A78C4D8}.Debug|x64.Build.0 = Debug|Any CPU
-		{A62D0EF6-5E73-4E7A-9335-D40C8A78C4D8}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{A62D0EF6-5E73-4E7A-9335-D40C8A78C4D8}.Debug|x86.Build.0 = Debug|Any CPU
-		{A62D0EF6-5E73-4E7A-9335-D40C8A78C4D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A62D0EF6-5E73-4E7A-9335-D40C8A78C4D8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A62D0EF6-5E73-4E7A-9335-D40C8A78C4D8}.Release|x64.ActiveCfg = Release|Any CPU
-		{A62D0EF6-5E73-4E7A-9335-D40C8A78C4D8}.Release|x64.Build.0 = Release|Any CPU
-		{A62D0EF6-5E73-4E7A-9335-D40C8A78C4D8}.Release|x86.ActiveCfg = Release|Any CPU
-		{A62D0EF6-5E73-4E7A-9335-D40C8A78C4D8}.Release|x86.Build.0 = Release|Any CPU
 		{94248B2A-0DAB-47E6-816D-5FBBFB9286AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{94248B2A-0DAB-47E6-816D-5FBBFB9286AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94248B2A-0DAB-47E6-816D-5FBBFB9286AD}.Debug|x64.ActiveCfg = Debug|Any CPU
@@ -144,8 +128,5 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{A62D0EF6-5E73-4E7A-9335-D40C8A78C4D8} = {0FDA7BCE-5688-E2EA-EA51-D692E01EBC09}
 	EndGlobalSection
 EndGlobal
