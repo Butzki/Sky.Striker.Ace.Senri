@@ -1,7 +1,6 @@
+namespace Airspace;
 using System.Collections.Immutable;
 using System.Text;
-
-namespace Airspace;
 
 /// <summary>
 /// Estado completo do jogo, imutável. Cada ação gera um novo estado via <see cref="With"/>.
